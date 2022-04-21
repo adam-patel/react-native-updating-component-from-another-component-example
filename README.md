@@ -1,4 +1,4 @@
-#How To Update a React Native Component From Another Independent React Native Component
+##How To Update a React Native Component From Another Independent React Native Component
 
 This was an exercise in creating a component that can update data in another component. It demonstrates how to use the State hook in order to do this.
 
